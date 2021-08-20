@@ -1,4 +1,6 @@
-
+clear
+echo -e " Write your name"
+read name
 echo -e "                      /^\ "
 echo -e "           /^\        \ /      ( \    /^\ "
 echo -e "     / )   \ /        _|_      \ |   |/^\| "
@@ -11,7 +13,7 @@ echo -e "   *| |    | |                 | |    | |***** "
 echo -e " *  | |   H  A  P  P  Y               | |      * "
 echo -e " *                                               * "
 echo -e " | *            B  I  R  T  H  D  A  Y  !      * | "
-echo -e " |  *****                                 *****  | "
+echo -e " |  *****     HAPPY BIRTHDAY $name        *****  | "
 echo -e " |@      **********             **********      @| "
 echo -e " | @   @           *************           @   @ | "
 echo -e "|  @@@ @    @                       @    @ @@@  | "
